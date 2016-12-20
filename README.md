@@ -1,0 +1,1 @@
+combine Strategy and Simple factory
